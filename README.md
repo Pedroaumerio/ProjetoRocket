@@ -17,9 +17,6 @@ Projeto de Site de informações pessoais <br/>
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
