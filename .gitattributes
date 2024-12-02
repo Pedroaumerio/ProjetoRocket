@@ -1,0 +1,5 @@
+# Forçar o uso de LF para arquivos JSON
+*.json text eol=lf
+
+# Se quiser aplicar LF para todos os arquivos, adicione:
+* text=auto
